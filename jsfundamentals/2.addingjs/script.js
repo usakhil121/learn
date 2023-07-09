@@ -1,0 +1,1 @@
+alert('javaScript is fun'); //external js
